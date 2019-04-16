@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b4eaedb-0660-40a1-a483-0d11c7e3b6c2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/preprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/preprocessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/wavenet_preprocessor.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/wavenet_preprocessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/griffin_lim_synthesis_tool.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/griffin_lim_synthesis_tool.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hparams.py" beforeDir="false" afterPath="$PROJECT_DIR$/hparams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/infolog.py" beforeDir="false" afterPath="$PROJECT_DIR$/infolog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_hparams.py" beforeDir="false" afterPath="$PROJECT_DIR$/paper_hparams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/(content+location) attention.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/(content+location) attention.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/ClariNet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/ClariNet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/Tacotron 2 revised.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/Tacotron 2 revised.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/bahdanau (content) attention.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/bahdanau (content) attention.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/deepvoice 3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/deepvoice 3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/effective approaches attention.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/effective approaches attention.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/fast_wavenet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/fast_wavenet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/tacotron.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/tacotron.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/tacotron2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/tacotron2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/papers/wavenet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/papers/wavenet.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sentences.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sentences.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/synthesize.py" beforeDir="false" afterPath="$PROJECT_DIR$/synthesize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/feeder.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/feeder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/Architecture_wrappers.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/Architecture_wrappers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/attention.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/attention.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/custom_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/custom_decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/helpers.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/helpers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/models/tacotron.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/models/tacotron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/synthesize.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/synthesize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/synthesizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/synthesizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/cleaners.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/cleaners.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/cmudict.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/cmudict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/plot.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/plot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/symbols.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/symbols.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tacotron/utils/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/tacotron/utils/text.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_wavenet_feeder.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_wavenet_feeder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_preprocess.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_preprocess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/feeder.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/feeder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/models/gaussian.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/models/gaussian.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/models/mixture.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/models/mixture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/models/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/models/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/models/wavenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/models/wavenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/synthesize.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/synthesize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/synthesizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/synthesizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wavenet_vocoder/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/wavenet_vocoder/util.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1746992531">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="477841088">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="45" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hparams.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="217" column="44" selection-start-line="217" selection-start-column="39" selection-end-line="217" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/preprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1258">
+              <caret line="80" column="10" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GL_synthesis_tool.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="96" column="58" selection-start-line="96" selection-start-column="58" selection-end-line="96" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fft</find>
+      <find>output</find>
+      <find>mel_folder</find>
+      <find>base_dir</find>
+      <find>hparams</find>
+      <find>train</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/preprocess.py" />
+        <option value="$PROJECT_DIR$/GL_synthesis_tool.py" />
+        <option value="$PROJECT_DIR$/train.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="-11" />
+    <option name="width" value="2562" />
+    <option name="height" value="1452" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tacotron-2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tacotron-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b4eaedb-0660-40a1-a483-0d11c7e3b6c2" name="Default Changelist" comment="" />
+      <created>1555380207908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555380207908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="-11" width="2562" height="1452" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24990146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="80" column="10" selection-start-line="80" selection-start-column="4" selection-end-line="80" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GL_synthesis_tool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="96" column="58" selection-start-line="96" selection-start-column="58" selection-end-line="96" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hparams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="217" column="44" selection-start-line="217" selection-start-column="39" selection-end-line="217" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
